@@ -1,0 +1,2 @@
+#!/bin/bash
+/tmp/alias_test.bash | "/usr/bin/rm -i"
